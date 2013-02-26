@@ -1,0 +1,13 @@
+--- wadllib-1.2.0/setup.py.orig	2011-06-10 13:31:47.000000000 -0500
++++ wadllib-1.2.0/setup.py	2011-06-10 13:31:56.000000000 -0500
+@@ -53,10 +53,6 @@
+         'src/wadllib/NEWS.txt'),
+     license='LGPL v3',
+     install_requires=[
+-        'setuptools',
+-        'elementtree',
+-        'lazr.uri',
+-        'simplejson',
+         ],
+     url='https://launchpad.net/wadllib',
+     download_url= 'https://launchpad.net/wadllib/+download',
